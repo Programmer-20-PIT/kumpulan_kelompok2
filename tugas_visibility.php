@@ -53,6 +53,4 @@ class mobil2 extends mobil {
 
 $car2 = new mobil2();
 echo $car2->getmobil();
-
-
 ?>
