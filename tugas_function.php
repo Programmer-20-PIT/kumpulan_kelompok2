@@ -60,7 +60,4 @@ $bagi2= 0;
 echo "Error karena tidak bisa di bagi oleh nol " . bagi($bagi1,$bagi2);
 
 echo"<br>";
-echo"<br>";
-
-
 ?>
